@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(165, 52, 146);
+}
+
+.RR {
+  margin-bottom: 8px;
+  font-size: 2em;
+}
+
+.RRR {
+  font-size: 30px;
+  box-shadow: 0 0 10px 2px red;
+}
+
+.X {
+  box-shadow: 0 0 5px 2px red;
+  border: 5px solid #57ff15;
+  margin-left: 2px;
+}
+
+.XX {
+  box-shadow: 0 0 5px 2px red;
+  border: 5px solid #57ff15;
+  margin-left: 15px;
+}
+
+.XXX {
+  box-shadow: 0 0 5px 2px red;
+  border: 5px solid #57ff15;
+  margin-left: 15px;
+}
+
+.XXXX {
+  box-shadow: 0 0 5px 2px red;
+  border: 5px solid #57ff15;
+  margin-top: 5px;
+  margin-left: 2px;
+}
+
+.X5 {
+  box-shadow: 0 0 5px 2px red;
+  border: 5px solid #57ff15;
+  margin-left: 15px;
+  margin-top: 5px;
+}
+
+.X6 {
+  box-shadow: 0 0 5px 2px red;
+  border: 5px solid #57ff15;
+  margin-left: 15px;
+}
